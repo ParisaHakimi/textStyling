@@ -1,0 +1,24 @@
+* {
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+h1 {
+  background-color: #000;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+h1 > .cloud {
+  text-transform: capitalize;
+  color: #00ffff;
+}
+.projects {
+  background-color: rebeccapurple;
+  color: whitesmoke;
+  text-align: center;
+}
+.contact-us {
+  background-color: #00bfff;
+  text-align: right;
+  text-decoration: underline;
+}
